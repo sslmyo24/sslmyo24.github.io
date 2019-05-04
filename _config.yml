@@ -1,6 +1,6 @@
 locale: "en-US"
 title: Strata # Title of your site
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://sslmyo24.github.io" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
 google_analytics_key: ""
 
@@ -50,3 +50,5 @@ social_icons:
   - Twitter
   - YouTube
   - RSS
+
+remote_theme : mmistakes/minimal-mistakes
