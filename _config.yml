@@ -1,53 +1,76 @@
-locale: "en-US"
-title: Strata # Title of your site
-url: "http://sslmyo24.github.io" # the base hostname & protocol for your site
-baseurl: "" # the subpath of your site, e.g. /blog/
-google_analytics_key: ""
+# Site
+title:              Moon
+bio:                'Minimal, one column jekyll theme.'
+description:        "Moon is a minimal, one column jekyll theme for your blog."
+reading_time:       true
+words_per_minute:   200
+logo:               'assets/img/logo.png'
+background:         'assets/img/placeholder-big.jpg'
+tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
+locale:             en_US
+url:                https://taylantatli.github.io/Moon
 
-# Default description in social shares for the jekyll-seo-tag gem
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+# Jekyll
+permalink:          /:title/
+markdown:           kramdown
+highlighter:        rouge
+kramdown:
+  auto_ids:         true
+  footnote_nr:      1
+  entity_output:    as_char
+  toc_levels:       1..6
+  enable_coderay:   false
+mathjax:            true
+sass:
+  sass_dir:         _sass
+  style:            compressed
 
-# Author details for the jekyll-seo-tag gem
-author:
-  name: sslmyo24
-  email: sslmyo24@gmail.com
-  twitter: # twitter username without the @ symbol
+# Comments
+disqus_shortname:   taylantatli
 
-# Social details for the jekyll-seo-tag gem
-social:
-  name: Strata Reloaded Template
-  links:
-    - https://github.com/comfusion/strata-reloaded-jekyll-template
+# Social
+# if you don't have any of social below, comment the line.
+#google:
+  #plus:            #username
+  #analytics:
+  #verify:
+  #ad-client:
+  #ad-slot:
+#bing-verify:
+#email:
+twitter:            username
+facebook:           username
+github-url:         username
+#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
+#linkedin:          username
+#xing:              username
+instagram:          username
+#lastfm:            username
+#tumblr:            username
+#medium:            '@username'
+#pinterest:         username
+#foursquare:        username
+steam:              username
+#dribbble:          username
+#youtube:           username
+#youtube-channel:   channel
+#soundcloud:        username
+#weibo:             username
+#flickr:            username
+#codepen:           username
+#keybase:           username
+#xmpp:              username@server.com
+#hackernews:        username
 
-permalink: pretty
-
+# Gems
 gems:
-  - "jekyll-feed"
-  - "jekyll-seo-tag"
-  - "jekyll-paginate"
-  - "jekyll-sitemap"
+  - jekyll-mentions
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-gist
 
-# Jekyll SEO Tag
-webmaster_verifications:
-  google: # 1234
-  bing: # 1234
-  alexa: # 1234
-  yandex: # 1234
+jekyll-mentions:
+    base_url: https://github.com
 
-# -----------
-# CloudCannon
-
-social_icons:
-  - Facebook
-  - Google Plus
-  - Instagram
-  - LinkedIn
-  - Pinterest
-  - Tumblr
-  - Twitter
-  - YouTube
-  - RSS
-theme: jekyll-theme-slate
+# Exclude list
+exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
