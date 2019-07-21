@@ -1,5 +1,5 @@
 # Site
-title:              Moon
+title:              LightWind
 bio:                'Minimal, one column jekyll theme.'
 description:        "Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       true
@@ -50,7 +50,7 @@ stackoverflow:     10953917/gun-lee  from a "http://stackoverflow.com/users/1095
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              aj0919
+# steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
