@@ -14,15 +14,16 @@ tag:
 comments: true
 ---
 
-<iframe src="https://ghbtns.com/github-btn.html?user=sslmyo24&repo=Moon&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>    
 <div style="clear:left;text-align:left;"><div style="float:left;margin:0 15px 5px 0;"><a href="http://www.yes24.com/Product/Goods/71129079" style="display:inline-block;overflow:hidden;border:solid 1px #ccc;" target="_blank"><img style="margin:-1px;vertical-align:top;" src="http://image.yes24.com/goods/71129079/M" border="0" alt="밑바닥부터 만드는 컴퓨팅 시스템 "></a></div><div><p style="line-height:1.2em;color:#333;font-size:14px;font-weight:bold;">밑바닥부터 만드는 컴퓨팅 시스템 </p><p style="margin-top:5px;line-height:1.2em;color:#666;"><a href="http://www.yes24.com/SearchCorner/Result?domain=ALL&author_yn=Y&query=&auth_no=255462" target="_blank">노암 니산</a>, <a href="http://www.yes24.com/SearchCorner/Result?domain=ALL&author_yn=Y&query=&auth_no=255463" target="_blank">시몬 쇼켄</a> 저/<a href="http://www.yes24.com/SearchCorner/Result?domain=ALL&author_yn=Y&query=&auth_no=255464" target="_blank">김진홍</a> 역</p><p style="margin-top:14px;line-height:1.5em;text-align:justify;color:#999;">“컴퓨터를 이해하는 가장 좋은 방법은 밑바닥부터 직접 만들어 보는 것이다!”MIT의 컴퓨터 과학 교재로 사용되고 있는 이 책은 단순하지만 강력한 컴퓨터 시스템을 밑바닥부터 직접 구축해 봄으로써 응용 컴퓨터과학에 대한 통합되고 뚜렷한 그림을 그릴 수 있게 해준다. 기본적인 하드웨어 플랫폼과 현대적인 소프트웨어...</p></div></div>
-      
+
+<iframe src="https://ghbtns.com/github-btn.html?user=sslmyo24&repo=Moon&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
+
 ## 소개
 * Fork the [Moon repo](https://github.com/TaylanTatli/Moon/fork)
 * Edit `_config.yml` file.
 * Remove sample posts from `_posts` folder and add yours.
 * Edit `index.md` file in `about` folder.
-* Change repo name to `YourUserName.github.io`    
+* Change repo name to `YourUserName.github.io`
 
 ## 목차
 
