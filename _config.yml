@@ -1,7 +1,7 @@
 # Site
 title:              LightWind
-bio:                'lightwind의 블로그'
-description:        "lightwind의 블로그"
+bio:                'lightwind의 개발 블로그'
+description:        "lightwind의 개발 블로그"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
