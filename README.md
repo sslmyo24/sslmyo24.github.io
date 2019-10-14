@@ -1,1 +1,1 @@
-# [Lightwind의 개발 블로그](https://https://sslmyo24.github.io)
+# [Lightwind의 개발 블로그](https://sslmyo24.github.io)
