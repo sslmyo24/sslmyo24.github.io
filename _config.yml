@@ -39,9 +39,9 @@ comments:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : "dark"
+    colorscheme          :
   utterances:
-    theme                : "github-dark"
+    theme                :
     issue_term           : # "pathname" (default)
   staticman:
     branch               : # "master"
@@ -52,7 +52,7 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : true
-search_full_content      : false
+search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
   application_id         : # YOUR_APPLICATION_ID
@@ -72,7 +72,7 @@ naver_site_verification  :
 twitter:
   username               : 
 facebook:
-  username               : 이건
+  username               :
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -94,9 +94,9 @@ analytics:
 # Site Author
 author:
   name             : "이건"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "제발 좀 하자!"
-  location         : "Somewhere"
+  avatar           : "/assets/images/bio-photo.jpg
+  bio              : "Just Do!!"
+  location         : "Korean"
   email            : "sslmyo24@gmail.com"
   links:
     - label: "Email"
