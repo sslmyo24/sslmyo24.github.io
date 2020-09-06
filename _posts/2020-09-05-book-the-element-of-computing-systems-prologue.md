@@ -1,13 +1,13 @@
 ---
 title: "밑바닥부터 만드는 컴퓨팅 시스템: 프롤로그"
 categories:
-  - system programming
+  - SystemProgramming
 tags:
-  - book
-  - computing system
-  - study
-  - system programming
-  - system architecture
+  - Book
+  - ComputingSystem
+  - Study
+  - SystemProgramming
+  - SystemArchitecture
 toc: true
 ---
 

@@ -3,11 +3,11 @@ title: "첫 글"
 header:
   teaser: "assets/images/start-teaser.jpg"
 categories:
-  - diary
+  - Diary
 tags:
-  - diary
-  - blog
-  - retrospect
+  - Diary
+  - Blog
+  - Retrospect
 toc: true
 ---
 
